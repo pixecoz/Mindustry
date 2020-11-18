@@ -17,5 +17,9 @@
   },
   {
     "address": "cheginde.ddns.net"
+  },
+  {
+    "name": "Anarchy Fun",
+    "address": ["smokeofanarchy.duckdns.org:6886"]
   }
 ]
